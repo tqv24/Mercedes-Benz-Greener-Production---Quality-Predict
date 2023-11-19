@@ -17,3 +17,5 @@ The repository is organized as follows:
 ## Dependencies
 - Python 3
 - Required Python packages are listed in `requirements.txt`. Install them using:
+
+## Data set: https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing
